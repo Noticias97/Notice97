@@ -81,7 +81,7 @@ header{
     height: 300px;
     position: relative;
     top: 80px;
-    background-image: url(../Noticiero\ escolar/Imagenes/ciudad.jpeg);
+    background-image: url("Imagenes/ciudad.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -534,7 +534,7 @@ input[id="3"]:checked ~ .pagination .pagination-item[for="3"]{
 footer{
     width: 100%;
     padding: 50px 0px;
-    background-image: url(../Noticiero\ escolar/Imagenes/background-footer.svg);
+    background-image: url("Imagenes/background-footer.svg");
     background-size: cover;
 }
 
@@ -659,7 +659,7 @@ footer{
         width: 1200px;
         position: relative;
         top: 80px;
-        background-image: url(../Noticiero\ escolar/Imagenes/ciudad.jpeg);
+        background-image: url("Imagenes/ciudad.jpeg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -729,7 +729,7 @@ footer{
     footer{
         width: 100%;
         padding: 50px 0px;
-        background-image: url(../Pagina\ web/Imagenes/background-footer.svg);
+        background-image: url("Imagenes/background-footer.svg");
         background-size: cover;
     }
     

@@ -82,7 +82,7 @@ header{
     height: 300px;
     position: relative;
     top: 80px;
-    background-image: url(../Noticiero\ escolar/Imagenes/ciudad4.jpg);
+    background-image: url("Imagenes/ciudad4.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -525,7 +525,7 @@ input[type="radio"]{
 footer{
     width: 100%;
     padding: 50px 0px;
-    background-image: url(../Noticiero\ escolar/Imagenes/background-footer.svg);
+    background-image: url("Imagenes/background-footer.svg");
     background-size: cover;
 }
 
@@ -685,7 +685,7 @@ footer{
         width: 1200px;
         position: relative;
         top: 80px;
-        background-image: url(../Noticiero\ escolar/Imagenes/ciudad4.jpg);
+        background-image: url("Imagenes/ciudad4.jpg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -755,7 +755,7 @@ footer{
     footer{
         width: 100%;
         padding: 50px 0px;
-        background-image: url(../Pagina\ web/Imagenes/background-footer.svg);
+        background-image: url("Imagenes/background-footer.svg");
         background-size: cover;
     }
     
